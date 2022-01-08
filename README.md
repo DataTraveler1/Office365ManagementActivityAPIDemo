@@ -17,3 +17,6 @@ See https://docs.microsoft.com/en-us/office/office-365-management-api/ for more 
 
 You can request a development E5 tenant from Microsoft (see https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/537287/148638273-592c9107-df3f-4c9f-8935-f9a1c477bf0c.png)
